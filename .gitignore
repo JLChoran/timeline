@@ -21,3 +21,6 @@ app/events.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Personal notes (local only)
+NOTES.md
